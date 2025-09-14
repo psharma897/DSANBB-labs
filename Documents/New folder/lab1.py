@@ -5,8 +5,8 @@
 # To test, run the following command :
 #     python test_lab1.py
 #
-# Author: Soni Dev.
-# Student Number: 130759210.
+# Author: Prakash Sharma
+# Student Number: 161697230.
 #
 
 def wins_rock_scissors_paper(player_move, opponent_move):
